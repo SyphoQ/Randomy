@@ -1,0 +1,21 @@
+{
+  "name": "randomy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sypho",
+  "contributors": [
+    "Pixwl <pixwl@pixwl.dev> (https://pixwl.dev)"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
